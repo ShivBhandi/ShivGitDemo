@@ -12,4 +12,13 @@ public class SearchPage {
 		System.out.println("Search Box");
 	}
 
+	public void searchBox1(){
+		
+		System.out.println("Search Box 1");
+	}
+	
+	public void searchButton(){
+		
+		System.out.println("Search Button");
+	}
 }
